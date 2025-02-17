@@ -24,10 +24,19 @@ Ejemplo de pantalla inicial
   <li> El programa seleccionará un nombre que es Tu "Amigo secreto". </li>
 </ol>
 
+Validación
+Si se intenta guardar una cadena vacía, aparecerá una alerta
 
-Ejemplo de resultado
+![Alerta](https://github.com/user-attachments/assets/d052ab9c-a32a-4829-bd32-3f0034304b4c)
 
-![PantallaSalida](https://github.com/user-attachments/assets/989e791d-fd72-4390-abcb-cdfc7bd7acea)
+Ejemplo de lista
+
+![ListaNombres](https://github.com/user-attachments/assets/9bdb91e5-94ee-49b6-8ae9-e486b8c4a74a)
+
+Ejemplo de salida
+
+![NombreSeleccionado](https://github.com/user-attachments/assets/1a288b37-eb20-49bb-b3fa-9673ca2c2c58)
+
 
 Desarrollado: 
 como parte de la formación ONE con plantillas proporcionadas en el curso
