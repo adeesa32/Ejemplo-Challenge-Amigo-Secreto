@@ -33,6 +33,7 @@ function sortearAmigo() {
     let numeroAleatorio = Math.floor(Math.random()*(amigos.length))
     console.log(numeroAleatorio);
     mensajeAmigo = "Tu amigo secreto es "+ amigos[numeroAleatorio];
+    imprimeLista("",'#listaAmigos')
     imprimeTexto(mensajeAmigo,'#resultado');
 }
 
